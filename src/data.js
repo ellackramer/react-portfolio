@@ -1,60 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Budget Tracker Application",
+    subtitle: "Express.js, Mongoose",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Allows user to log spending and saving both on and offline",
+    image: "./project1.gif",
+    link: "https://ella-progressive-budget18.herokuapp.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Weather Dashboard",
+    subtitle: "CSS, APIs",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Simple weather dashboard application allows user to search for a city and view the current weather and forecast.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://ellackramer.github.io/homework-6/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "CovTrack",
+    subtitle: "UIKit, Jquery",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Uses user's IP address to display the number of active Covid-19 cases in their area",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://jamesljenks.github.io/07_Project-1_CovTrack/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Wanderlog",
+    subtitle: "Handlebars.js, SQL, Heroku",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Hiking social network that allows users to log their adventures and interact with other users",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://wanderlog-msu.herokuapp.com/",
   },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
-];
-
-export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
 ];
